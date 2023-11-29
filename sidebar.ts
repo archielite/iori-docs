@@ -34,7 +34,6 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/iori/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/iori/usage-media-wasabi' },
       { text: 'Setup email', link: '/iori/usage-email' },
-      { text: 'Backup', link: '/iori/plugin-backup' },
 
       { text: 'Invoice template', link: '/martfury/invoice-template' },
     ],
