@@ -36,11 +36,5 @@ export default [
       { text: 'Setup email', link: '/iori/usage-email' },
       { text: 'Invoice template', link: '/iori/invoice-template' },
     ],
-  },
-  {
-    text: 'Development',
-    items: [
-      { text: 'Rename theme', link: '/iori/theme-rename' },
-    ]
   }
 ] satisfies DefaultTheme.SidebarItem[]

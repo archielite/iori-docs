@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Iori is Laravel Multipurpose Agency script using Laravel 9.x. It's a product built on Botble CMS.
+Iori is Laravel Multipurpose Agency script using Laravel 10.x. It's a product built on Botble CMS.
 
 Created: _Jul 07, 2023_
 
